@@ -30,7 +30,3 @@ The project emphasizes engineering accuracy, modular design, clean code principl
 - Small deflections
 - Static loading
 - Euler–Bernoulli beam theory
-
----
-
-## Project Structure
